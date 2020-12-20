@@ -1,6 +1,6 @@
 # DP
 https://leetcode.com/discuss/interview-question/778035/dynamic-programming-patterns
-
+and interviewbit.
 
 Sequence
 This is the most common type of DP problem and a good place to get a feel of dynamic programming. In the recurrence relation,dp[i] normally means max/min/best value for the sequence ending at index i.
